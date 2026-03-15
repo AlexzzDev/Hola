@@ -8,4 +8,4 @@
 
 ## Contact with me
 
-- [Correo electrónico](alexzdevcontacto@gmail.com)
+- Correo electrónico: [alexzdevcontacto@gmail.com]
